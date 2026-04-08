@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://lindsro.github.io/webarch_qr/'
 languageCode = 'en-us'
 title = 'Documenting QR Codes'
 theme = 'dream'
