@@ -1,0 +1,3 @@
+This static site is for a class project called "Documenting the Bridge Between Physical Item and Digital Object: Web Archiving QR Codes" for SI 639 Web Archiving at the University of Michigan School of Information (Winter 2026). This project was completed by Lindsey Rogers, Benjamin Joseph, and Madeleine Absher, graduate students in UMSI.
+
+This website is constructed in Hugo with the theme 'Dream', and is hosted on github pages. WARC files and original image files can all be found at the github site. This site is infreqently monitored so please let us know if you find any broken links. We will do our best to replace them.
