@@ -1,11 +1,11 @@
 ---
-title: Aia_design
+title: AIA Design for Aging Student Design Competition
 date: 2026-04-09T15:29:27-04:00
 lastmod: 2026-04-09T15:29:27-04:00
 author: rogerslj
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: /image/aia_design-02.12.jpg
+cover: static/image/aia_design-02.12.jpg
 covercaption: This is a photo of the front and back of two postcards attached to a white wall with pushpins. The both contain information about the AIA Design for Aging Student Design Competition. The top postcard is of a group of people of all ages in a cartoonish style looking at a basic map of a neighborhood. There is a red box in the upper left corner with the words “Intergenerational Union, Lifelong Learning and Active Aging.” The bottom postcard has information about the opportunity on the left hand side and a small QR code on the bottom right.
 # images:
 #   - /img/cover.jpg
