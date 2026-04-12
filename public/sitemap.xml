@@ -2,10 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/webarch_qr/categories/</loc>
+    <loc>http://localhost:1313/webarch_qr/posts/aia_design/</loc>
+    <lastmod>2026-04-09T15:29:27-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/webarch_qr/</loc>
+    <lastmod>2026-04-09T15:29:27-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/webarch_qr/tags/north-campus/</loc>
+    <lastmod>2026-04-09T15:29:27-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/webarch_qr/posts/</loc>
+    <lastmod>2026-04-09T15:29:27-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/webarch_qr/tags/</loc>
+    <lastmod>2026-04-09T15:29:27-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/webarch_qr/tags/taubman-college/</loc>
+    <lastmod>2026-04-09T15:29:27-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/webarch_qr/categories/</loc>
   </url>
 </urlset>

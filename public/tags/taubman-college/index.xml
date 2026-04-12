@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taubman College on Documenting QR Codes</title>
+    <link>http://localhost:1313/webarch_qr/tags/taubman-college/</link>
+    <description>Recent content in Taubman College on Documenting QR Codes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Apr 2026 15:29:27 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/webarch_qr/tags/taubman-college/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aia_design</title>
+      <link>http://localhost:1313/webarch_qr/posts/aia_design/</link>
+      <pubDate>Thu, 09 Apr 2026 15:29:27 -0400</pubDate>
+      <guid>http://localhost:1313/webarch_qr/posts/aia_design/</guid>
+      <description>&lt;p&gt;AIA Design for Aging Student Design Competition information and metadata.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
