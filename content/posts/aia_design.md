@@ -16,7 +16,7 @@ tags:
   - North Campus
 # nolastmod: true
 # math: true
-draft: true
+draft: false
 ---
 
 AIA Design for Aging Student Design Competition information and metadata.
