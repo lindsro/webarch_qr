@@ -5,7 +5,7 @@ lastmod: 2026-04-09T17:08:07-04:00
 author: rogerslj
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: https://lindsro.github.io/webarch_qr/images/giving-02.26.JPG
+cover: https://lindsro.github.io/webarch_qr/images/giving-02.26.jpeg
 covercaption: This is a photo of a small mailer in an office window. It has white text on a dark blue background reading “Support what you love about U-M.” The word “love” is represented by a yellow heart. The bottom of the page has the “giving Budeday” logo in the lower left corner along with the date “March 18th, 2026.” Above this is a white QR code on an electric blue background. The top of the page has the University of Michigan name and block “M” along with the text “for what’s next” and an arrow in yellow pointing towards white text that reads “Look to Michigan.”
 # images:
 #   - /img/cover.jpg

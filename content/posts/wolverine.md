@@ -5,7 +5,7 @@ lastmod: 2026-04-09T17:11:44-04:00
 author: rogerslj
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: https://lindsro.github.io/webarch_qr/images/wolverine-02.20JPG
+cover: https://lindsro.github.io/webarch_qr/images/wolverine-02.20.jpg
 covercaption: This is a photo of a poster. At the top of the poster is a multicolored rosette against a dark grey background. There is light grey text that reads “Wellness Coaching.” Directly below it is text in white that reads “Find Your Path.” Below this is a pyramid split into four horizontal sections and a figure of a person looking on. The bottom section is green and reads “Self Care Tools” in white. The next section reads “Wellness Coaching” in white text on a blue background. The following section is a berry red and reads in white text “Counseling and Clinical Therapy.” The final top of the pyramid is a small section in black with white text labeling it as “Emergency.” At the very bottom is a strip of dark grey with the text “Is Coaching Right For You?” To the left of this is a University of Michigan QR code. At the bottom right is the Wolverine Wellness logo.
 # images:
 #   - /img/cover.jpg

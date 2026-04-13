@@ -6,20 +6,48 @@
     <description>Recent content in Tags on Documenting QR Codes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2026 15:29:27 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 16:42:37 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/webarch_qr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Central Campus</title>
+      <link>http://localhost:1313/webarch_qr/tags/central-campus/</link>
+      <pubDate>Sun, 12 Apr 2026 16:42:37 -0400</pubDate>
+      <guid>http://localhost:1313/webarch_qr/tags/central-campus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Munger Residences</title>
+      <link>http://localhost:1313/webarch_qr/tags/munger-residences/</link>
+      <pubDate>Sun, 12 Apr 2026 16:42:37 -0400</pubDate>
+      <guid>http://localhost:1313/webarch_qr/tags/munger-residences/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Health</title>
+      <link>http://localhost:1313/webarch_qr/tags/health/</link>
+      <pubDate>Thu, 09 Apr 2026 17:11:44 -0400</pubDate>
+      <guid>http://localhost:1313/webarch_qr/tags/health/</guid>
+      <description></description>
+    </item>
     <item>
       <title>North Campus</title>
       <link>http://localhost:1313/webarch_qr/tags/north-campus/</link>
-      <pubDate>Thu, 09 Apr 2026 15:29:27 -0400</pubDate>
+      <pubDate>Thu, 09 Apr 2026 17:11:01 -0400</pubDate>
       <guid>http://localhost:1313/webarch_qr/tags/north-campus/</guid>
       <description></description>
     </item>
     <item>
       <title>Taubman College</title>
       <link>http://localhost:1313/webarch_qr/tags/taubman-college/</link>
-      <pubDate>Thu, 09 Apr 2026 15:29:27 -0400</pubDate>
+      <pubDate>Thu, 09 Apr 2026 17:11:01 -0400</pubDate>
       <guid>http://localhost:1313/webarch_qr/tags/taubman-college/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hatcher Library</title>
+      <link>http://localhost:1313/webarch_qr/tags/hatcher-library/</link>
+      <pubDate>Thu, 09 Apr 2026 17:07:55 -0400</pubDate>
+      <guid>http://localhost:1313/webarch_qr/tags/hatcher-library/</guid>
       <description></description>
     </item>
   </channel>
