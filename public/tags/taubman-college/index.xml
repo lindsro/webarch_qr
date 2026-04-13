@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taubman College on Documenting QR Codes</title>
-    <link>http://localhost:34411/webarch_qr/tags/taubman-college/</link>
+    <link>http://localhost:1313/webarch_qr/tags/taubman-college/</link>
     <description>Recent content in Taubman College on Documenting QR Codes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Apr 2026 17:11:01 -0400</lastBuildDate>
-    <atom:link href="http://localhost:34411/webarch_qr/tags/taubman-college/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/webarch_qr/tags/taubman-college/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shift Collective</title>
-      <link>http://localhost:34411/webarch_qr/posts/shift/</link>
+      <link>http://localhost:1313/webarch_qr/posts/shift/</link>
       <pubDate>Thu, 09 Apr 2026 17:11:01 -0400</pubDate>
-      <guid>http://localhost:34411/webarch_qr/posts/shift/</guid>
+      <guid>http://localhost:1313/webarch_qr/posts/shift/</guid>
       <description>&lt;p&gt;This post is about Shift collective, and contains information and metadata about their website.&lt;/p&gt;</description>
     </item>
     <item>
       <title>AIA Design for Aging Student Design Competition</title>
-      <link>http://localhost:34411/webarch_qr/posts/aia_design/</link>
+      <link>http://localhost:1313/webarch_qr/posts/aia_design/</link>
       <pubDate>Thu, 09 Apr 2026 15:29:27 -0400</pubDate>
-      <guid>http://localhost:34411/webarch_qr/posts/aia_design/</guid>
+      <guid>http://localhost:1313/webarch_qr/posts/aia_design/</guid>
       <description>&lt;p&gt;AIA Design for Aging Student Design Competition information and metadata.&lt;/p&gt;</description>
     </item>
   </channel>

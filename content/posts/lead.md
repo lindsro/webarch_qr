@@ -5,7 +5,7 @@ lastmod: 2026-04-12T16:42:37-04:00
 author: rogerslj
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: https://lindsro.github.io/webarch_qr/images/lead-02.19.jpg
+cover: https://lindsro.github.io/webarch_qr/images/lead.02-19.jpg
 covercaption: This is a photo of a poster. It is mostly white with faded wavy stripes on the top and bottom of the page in blue, yellow, and red. There is large text in the middle which reads “Looking to Develop Leadership Skills?” The “Looking to” section is in red, while “develop” is in blue, and “leadership skills?” is in yellow. There is a black arrow pointing to the QR code in the bottom right. In the top left corner is the University of Michigan block “M” with the student life M-Lead logo.
 # images:
 #   - /img/cover.jpg
