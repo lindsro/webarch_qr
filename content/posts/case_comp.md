@@ -23,19 +23,30 @@ draft: false
 
 <!--more-->
 
+![Munger Case Competition rotating announcement](https://lindsro.github.io/webarch_qr/images/case_comp-02.19.jpg)
+
 This is a fairly complete website that documents requirements for the Winter 20206 Munger Case Competition. The only incomplete element is the google maps inset which was used for identifying the location of the final presentation in Munger. 
 
-# Metadata
+## Metadata
 
-## title: Winter 2026 Graduate and Professional Student Case Competition. Rethinking Graduate Education: Aligning Degrees with Student’s Futures
-## creator: Munger Graduate Residences University of Michigan
-## item date: 20260219
-## collector: madeleia
-## item collection method: iPhone 13
-## item location: [Munger Graduate Residences, First floor, University of Michigan Central Campus]
-## site date: 20260409
-## url: https://sites.google.com/umich.edu/munger-case-competition/home
-## site collection method: archive-it
 
-# Check out the site!
+**title:** Winter 2026 Graduate and Professional Student Case Competition. Rethinking Graduate Education: Aligning Degrees with Student’s Futures
+
+**creator:** Munger Graduate Residences University of Michigan
+
+**item date:** 20260219
+
+**collector:** madeleia
+
+**item collection method:** iPhone 13
+
+**item location:** [Munger Graduate Residences, First floor, University of Michigan Central Campus]
+
+**site date:** 20260409
+
+**url:** https://sites.google.com/umich.edu/munger-case-competition/home
+
+**site collection method:** archive-it
+
+## Check out the site!
 [Wayback Machine](https://wayback.archive-it.org/31134/20260409194210/https://sites.google.com/umich.edu/munger-case-competition/home/)

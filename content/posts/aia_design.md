@@ -2,7 +2,7 @@
 title: AIA Design for Aging Student Design Competition
 date: 2026-04-09T15:29:27-04:00
 lastmod: 2026-04-09T15:29:27-04:00
-author: rogerslj
+author: Lindsey
 # avatar: /img/author.jpg
 # authorlink: https://author.site
 cover: https://lindsro.github.io/webarch_qr/images/aia_design-02.12.JPG

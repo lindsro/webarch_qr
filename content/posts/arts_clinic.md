@@ -2,7 +2,7 @@
 title: Performing Arts Health Clinic
 date: 2026-04-09T17:07:36-04:00
 lastmod: 2026-04-09T17:07:36-04:00
-author: rogerslj
+author: Lindsey
 # avatar: image/arts_clinic-02.02.JPG
 # authorlink: https://author.site
 cover: https://lindsro.github.io/webarch_qr/images/arts_clinic-02.02.JPG
@@ -18,23 +18,33 @@ tags:
 draft: false
 ---
 
-Performing Arts Health Clinic information and metadata.
+# Performing Arts Health Clinic information and metadata.
 
 <!--more-->
 
+![Performing Arts Health Clinic Flier](https://lindsro.github.io/webarch_qr/images/arts_clinic-02.02.JPG)
+
 This is a fairly complete website, though you are obviously not able to book any appointments or add yourself to a waitlist. This shows some of the resources available to students in the School of Music, Theatre, and Dance from winter 2026.
 
-# Metadata
+## Metadata
 
-## title: Performing Arts Health Clinic
-## creator: School of Music, Theatre, and Dance Wellness Program
-## item date: 20260212
-## collector: rogerslj
-## item collection method: iPhone 11
-## item location: [Moore Hall, School of Music, Theatre, and Dance, University of Michigan North Campus]
-## site date: 20260311
-## url: https://app.acuityscheduling.com/schedule/38cb0841/?calendarIds=7697928
-## site collection method: archive-it
+**title:** Performing Arts Health Clinic
 
-# Check out the site!
+**creator:** School of Music, Theatre, and Dance Wellness Program
+
+**item date:** 20260212
+
+**collector:** rogerslj
+
+**item collection method:** iPhone 11
+
+**item location:** [Moore Hall, School of Music, Theatre, and Dance, University of Michigan North Campus]
+
+**site date:** 20260311
+
+**url:** https://app.acuityscheduling.com/schedule/38cb0841/?calendarIds=7697928
+
+**site collection method:** archive-it
+
+## Check out the site!
 [Wayback Machine](https://wayback.archive-it.org/31134/20260321200846/https://app.acuityscheduling.com/schedule/38cb0841/?calendarIds=7697928)

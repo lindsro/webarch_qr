@@ -2,7 +2,7 @@
 title: Shift Collective
 date: 2026-04-09T17:11:01-04:00
 lastmod: 2026-04-09T17:11:01-04:00
-author: rogerslj
+author: Lindsey
 # avatar: /img/author.jpg
 # authorlink: https://author.site
 cover: https://lindsro.github.io/webarch_qr/images/shift-02.12.JPG
@@ -19,23 +19,33 @@ tags:
 draft: false
 ---
 
-This post is about Shift collective, and contains information and metadata about their website.
+# This post is about Shift collective, and contains information and metadata about their website.
 
 <!--more-->
 
+![Image of a Shift Collective Poster](https://lindsro.github.io/webarch_qr/images/shift-02.12.JPG)
+
 This is a very dynamic website, reflective of the creative activity that they encourage in their space. Dynamic websites pose a particular challenge to archive. We used tools like archive-it, wget, and browsertrix to capture different aspects of the website, but ultimately the look of the website was difficult to capture. The final capture is from an archive-it crawl in April, and was scoped to exclude videos. Additionally, we used brozzler as opposed to a normal crawl. 
 
-# Metadata
+## Metadata
 
-## title: Shift Creator Space
-## creator: Shift Labs LLC
-## item date: 20260212
-## collector: rogerslj
-## item collection method: iPhone 17
-## item location: [Taubman School of Architecture and Urban Planning, Art and Architecture Building, University of Michigan North Campus]
-## site date: 20260409
-## url: https://shiftcreator.space
-## site collection method: archive-it
+**title:** Shift Creator Space
 
-# Check out the site!
+**creator:** Shift Labs LLC
+
+**item date:** 20260212
+
+**collector:** rogerslj
+
+**item collection method:** iPhone 17
+
+**item location:** [Taubman School of Architecture and Urban Planning, Art and Architecture Building, University of Michigan North Campus]
+
+**site date:** 20260409
+
+**url:** https://shiftcreator.space
+
+**site collection method:** archive-it
+
+## Check out the site!
 [Wayback Machine](https://wayback.archive-it.org/31134/20260409194535/https://shiftcreator.space/)

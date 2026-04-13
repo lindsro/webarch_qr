@@ -2,7 +2,7 @@
 title: Well-Being Collective
 date: 2026-04-09T17:11:24-04:00
 lastmod: 2026-04-09T17:11:24-04:00
-author: rogerslj
+author: Lindsey
 # avatar: /img/author.jpg
 # authorlink: https://author.site
 cover: https://lindsro.github.io/webarch_qr/images/well_being-02.19.jpg
@@ -20,23 +20,33 @@ tags:
 draft: false
 ---
 
-This post contains metadata and information about the well-being collective.
+# This post contains metadata and information about the well-being collective.
 
 <!--more-->
 
+![Photo of a TV screen with a rotating announcemnt for the Well-Being Collective](https://lindsro.github.io/webarch_qr/images/well_being-02.19.jpg)
+
 Earlier versions of our crawls did not capture the full website. After raising the document limit, excluding videos and audio, and switching over to brozzler we were able to collect a more complete version of the website visually. Most of the links on this site do not work – with the exception of the Snooze! For Better Sleep link. Clearly, they really want this information to reach people!
 
-# Metadata
+## Metadata
 
-## title: Well-Being Collective
-## creator: Well-Being Collective
-## item date: 20260219
-## collector: madeleia
-## item collection method: iPhone 13
-## item location: [Munger Graduate Residences, First Floor, University of Michigan Central Campus]
-## site date: 20260409
-## url: https://wellbeing.umich.edu/tools-resources/?utm_source=sorc&utm_content=feb-diag-board
-## site collection method: archive-it
+**title:** Well-Being Collective
 
-# Check out the site!
+**creator:** Well-Being Collective
+
+**item date:** 20260219
+
+**collector:** madeleia
+
+**item collection method:** iPhone 13
+
+** item location:** [Munger Graduate Residences, First Floor, University of Michigan Central Campus]
+
+**site date:** 20260409
+
+** url:** https://wellbeing.umich.edu/tools-resources/?utm_source=sorc&utm_content=feb-diag-board
+
+**site collection method:** archive-it
+
+## Check out the site!
 [Wayback Machine](https://wayback.archive-it.org/31134/20260409194207/https://wellbeing.umich.edu/tools-resources/?utm_source=sorc&utm_content=feb-diag-board) 
