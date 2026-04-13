@@ -1,11 +1,11 @@
 ---
-title: Shift
+title: Shift Collective
 date: 2026-04-09T17:11:01-04:00
 lastmod: 2026-04-09T17:11:01-04:00
 author: rogerslj
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: image/shift-02.12.JPG
+cover: https://lindsro.github.io/webarch_qr/images/shift-02.12.JPG
 covercaption: This is a photo of a flier. It has three colorful central figures all working on different projects in their hands. They are on a blue field with a white background. At the top of the page is a black band with six words in white text “Builders Writers Artists Architects Developers Designers” below the figures on the right bottom of the page is an outline of a house and black text that reads “Shift Creator Space.” The middle figure is leaning over the the figure on the left. There is a speech bubble over their heads which reads “Make Cool Shit.” The letter “I” is stylized as “!” There are two QR codes to either side of the group.
 # images:
 #   - /img/cover.jpg
@@ -16,7 +16,7 @@ tags:
   - Taubman College
 # nolastmod: true
 # math: true
-draft: true
+draft: false
 ---
 
 This post is about Shift collective, and contains information and metadata about their website.

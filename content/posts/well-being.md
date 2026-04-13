@@ -1,11 +1,11 @@
 ---
-title: Well Being
+title: Well-Being Collective
 date: 2026-04-09T17:11:24-04:00
 lastmod: 2026-04-09T17:11:24-04:00
 author: rogerslj
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: image/well_being-02.19.JPG
+cover: https://lindsro.github.io/webarch_qr/images/well_being-02.19.JPG
 covercaption: This is a photo of a TV screen with a slide advertising aid for students from well-being collective. It features a cartoon pink heart, with big eyes and a smile that has sweat bands around its arms and feet lifting a pair of weights. It is set against a light blue background. There is text above the heart in dark blue that reads “Take well-being to heart.” There is additional dark blue text below the heart that reads “Nurture both your mind and body.” Below this is a dark blue strip that has the following text in bright yellow, “Helping Leaders Feel Their Best:” followed by a contact email. There is a QR code in the bottom right corner.
 # images:
 #   - /img/cover.jpg
@@ -17,7 +17,7 @@ tags:
   - Munger Residences
 # nolastmod: true
 # math: true
-draft: true
+draft: false
 ---
 
 This post contains metadata and information about the well-being collective.

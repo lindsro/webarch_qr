@@ -1,11 +1,11 @@
 ---
-title: Geo
+title: GEO and ACLU U-M
 date: 2026-04-09T17:07:55-04:00
 lastmod: 2026-04-09T17:07:55-04:00
 author: rogerslj
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: image/geo-01.30.JPG
+cover: https://lindsro.github.io/webarch_qr/images/geo-01.30.JPG
 covercaption: This is a bright purple sticker approximately 2 inches by three inches. In bright orange text it reads “DPSS is watching you.” Below that and to the right it reads in bright red text with white outline “SURVEILLANCE IS NOT SAFETY.” In the upper right hand corner is a CCTV camera and in the lower left is a QR code, both in white.
 # images:
 #   - /img/cover.jpg
@@ -16,7 +16,7 @@ tags:
   - Central Campus
 # nolastmod: true
 # math: true
-draft: true
+draft: false
 ---
 
 GEO and ACLU of U-M information and metadata.

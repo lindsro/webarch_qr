@@ -5,7 +5,7 @@ lastmod: 2026-04-09T17:07:36-04:00
 author: rogerslj
 # avatar: image/arts_clinic-02.02.JPG
 # authorlink: https://author.site
-cover: image/arts_clinic-02.02.JPG
+cover: https://lindsro.github.io/webarch_qr/images/arts_clinic-02.02.JPG
 covercaption: This is a photo of an 8 ½ by 11 poster with a light blue background and six white squares with different health information in them. All of them also have a cartoon doodle that helps illustrate the text. The first row from left to right is “Physical Therapy Triage”, “Occupational Therapy Triage”, and “Nutritional Check-Ins”. The Second row below reads left to right “Vocal Health Check-ins”, “Hearing Health Check-ins” and the last square has a cartoon of doctors and nurses with text and a QR code at the bottom. The text reads “Free and Open to SMTD students, faculty, and staff. Scan to register.”
 # images:
 #   - /img/cover.jpg
@@ -15,7 +15,7 @@ tags:
   - North Campus
 # nolastmod: true
 # math: true
-draft: true
+draft: false
 ---
 
 Performing Arts Health Clinic information and metadata.
