@@ -30,13 +30,21 @@ While users can see this website through the link, there are elements of it that
 ## Metadata
 
 **title:** AIA Design for Aging 2026 Student Design Competition
+
 **creator:** Association for Collegiate Schools of Architecture (ACSA)
+
 **item date:** 20260212
+
 **collector:** rogerslj
+
 **item collection method:** iPhone 17
+
 **item location:** [Taubman School of Architecture and Urban Planning, Art and Architecture Building, University of Michigan North Campus]
+
 **site date:** 20260311
+
 **url:** https://www.acsa-arch.org/competitions/2026-design-for-aging-competition/
+
 **site collection method:** archive-it
 
 ## Check out the site!
