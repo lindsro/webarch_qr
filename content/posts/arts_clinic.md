@@ -1,5 +1,5 @@
 ---
-title: Arts_clinic
+title: Performing Arts Health Clinic
 date: 2026-04-09T17:07:36-04:00
 lastmod: 2026-04-09T17:07:36-04:00
 author: rogerslj
