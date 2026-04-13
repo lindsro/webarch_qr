@@ -6,8 +6,15 @@
     <description>Recent content in Home on Documenting QR Codes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Apr 2026 16:42:37 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 14:12:02 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/webarch_qr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Munger Case Competition</title>
+      <link>http://localhost:1313/webarch_qr/posts/case_comp/</link>
+      <pubDate>Mon, 13 Apr 2026 14:12:02 -0400</pubDate>
+      <guid>http://localhost:1313/webarch_qr/posts/case_comp/</guid>
+      <description>&lt;h1 id=&#34;information-and-metadata-about-the-munger-case-competition&#34;&gt;Information and Metadata about the Munger Case Competition&lt;/h1&gt;</description>
+    </item>
     <item>
       <title>MLead</title>
       <link>http://localhost:1313/webarch_qr/posts/lead/</link>
@@ -51,7 +58,7 @@
       <description>&lt;p&gt;GEO and ACLU of U-M information and metadata.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Arts_clinic</title>
+      <title>Performing Arts Health Clinic</title>
       <link>http://localhost:1313/webarch_qr/posts/arts_clinic/</link>
       <pubDate>Thu, 09 Apr 2026 17:07:36 -0400</pubDate>
       <guid>http://localhost:1313/webarch_qr/posts/arts_clinic/</guid>

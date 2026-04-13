@@ -5,7 +5,7 @@ lastmod: 2026-04-13T14:12:02-04:00
 author: Lindsey
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: https://lindsro.github.io/webarch_qr/case_comp-02.19.jpg
+cover: https://lindsro.github.io/webarch_qr/images/case_comp-02.19.jpg
 covercaption: This is a photo of a tv screen advertising the 2026 Munger Case Competition. This screen has three squares, a large one in bright blue with “2026 Munger Case Competition:” in black and “Rethinking Graduate Education - Aligning Degrees with Students’ Futures” in white text with a black outline. The other squares are to the right, with the medium square sharing important dates for the competition and the smaller rectangle at the bottom also in white showing the three QR codes for the project.
 # images:
 #   - /img/cover.jpg
