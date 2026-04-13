@@ -19,23 +19,25 @@ tags:
 draft: false
 ---
 
-AIA Design for Aging Student Design Competition information and metadata.
+# AIA Design for Aging Student Design Competition information and metadata.
 
 <!--more-->
 
+![AIA Design for Aging Student Design Competition Mailers](https://lindsro.github.io/webarch_qr/images/aia_design-02.12.JPG)
+
 While users can see this website through the link, there are elements of it that were not able to be preserved. Scrolling shows more of the images that were created as well as text and a few links. There are, however, links that are completely blocked from access. These could have robots.txt or something else which prevents archive-it from collecting the item. What is left is a basic outline of the site structure, with links to various pages, images, and text. This website has information about the AIA Design for Aging Student Design Competition for Winter 2026.
 
-# Metadata
+## Metadata
 
-## title: AIA Design for Aging 2026 Student Design Competition
-## creator: Association for Collegiate Schools of Architecture (ACSA)
-## item date: 20260212
-## collector: rogerslj
-## item collection method: iPhone 17
-## item location: [Taubman School of Architecture and Urban Planning, Art and Architecture Building, University of Michigan North Campus]
-## site date: 20260311
-## url: https://www.acsa-arch.org/competitions/2026-design-for-aging-competition/
-## site collection method: archive-it
+**title:** AIA Design for Aging 2026 Student Design Competition
+**creator:** Association for Collegiate Schools of Architecture (ACSA)
+**item date:** 20260212
+**collector:** rogerslj
+**item collection method:** iPhone 17
+**item location:** [Taubman School of Architecture and Urban Planning, Art and Architecture Building, University of Michigan North Campus]
+**site date:** 20260311
+**url:** https://www.acsa-arch.org/competitions/2026-design-for-aging-competition/
+**site collection method:** archive-it
 
-# Check out the site!
+## Check out the site!
 [Wayback Machine](https://wayback.archive-it.org/31134/20260311171813/https://www.acsa-arch.org/competitions/2026-design-for-aging-competition/)
