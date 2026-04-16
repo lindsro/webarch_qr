@@ -46,5 +46,13 @@ This is a fairly complete website, though you are obviously not able to book any
 
 **site collection method:** archive-it
 
+**crawl id:** 2675399 
+
+**collection id:** 31134
+
+
 ## Check out the site!
 [Wayback Machine](https://wayback.archive-it.org/31134/20260321200846/https://app.acuityscheduling.com/schedule/38cb0841/?calendarIds=7697928)
+
+### You can find more information at our Archive-it site:
+[Archive-it](https://archive-it.org/collections/31134)

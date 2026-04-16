@@ -47,5 +47,13 @@ While users can see this website through the link, there are elements of it that
 
 **site collection method:** archive-it
 
+**crawl id:** 2687297
+
+**collection id:** 31134
+
+
 ## Check out the site!
 [Wayback Machine](https://wayback.archive-it.org/31134/20260311171813/https://www.acsa-arch.org/competitions/2026-design-for-aging-competition/)
+
+### You can find more information at our Archive-it site:
+[Archive-it](https://archive-it.org/collections/31134)

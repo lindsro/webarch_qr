@@ -47,5 +47,13 @@ This is a very complete website, with only a few items blocked from use. This co
 
 **site collection method:** archive-it
 
+**crawl id:** 2687297 
+
+**collection id:** 31134
+
+
 ## Check out the site!
-[Wayback Machine](https://wayback.archive-it.org/31134/20260409194220/https://mlead.umich.edu/) 
+[Wayback Machine](https://wayback.archive-it.org/31134/20260409194220/https://mlead.umich.edu/)
+
+### You can find more information at our Archive-it site:
+[Archive-it](https://archive-it.org/collections/31134)  

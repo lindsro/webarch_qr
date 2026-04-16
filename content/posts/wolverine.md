@@ -49,5 +49,12 @@ This website is also fairly well captured, though many of the links within were 
 
 **site collection method:** archive-it
 
+**crawl id:** 2675399 
+
+**collection id:** 31134
+
 ## Check out the site!
 [Wayback Machine](https://wayback.archive-it.org/31134/20260311171814/https://wolverinewellness.umich.edu/wellness-coaching?utm_source=qrcode)
+
+### You can find more information at our Archive-it site:
+[Archive-it](https://archive-it.org/collections/31134) 

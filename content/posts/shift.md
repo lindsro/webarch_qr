@@ -47,5 +47,12 @@ This is a very dynamic website, reflective of the creative activity that they en
 
 **site collection method:** archive-it
 
+**crawl id:** 2687297 
+
+**collection id:** 31134
+
 ## Check out the site!
 [Wayback Machine](https://wayback.archive-it.org/31134/20260409194535/https://shiftcreator.space/)
+
+### You can find more information at our Archive-it site:
+[Archive-it](https://archive-it.org/collections/31134) 
